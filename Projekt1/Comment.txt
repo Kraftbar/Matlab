@@ -1,0 +1,6 @@
+ferdig:
+	D_V_A 
+
+ikke ferdig:
+	A_V_D
+	Prog som krysssjekker
